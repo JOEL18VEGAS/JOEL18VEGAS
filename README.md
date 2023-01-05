@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Joel Vegas</h1>
 <h3 align="center">A passionate Full-Stack developer from Colombia</h3>
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/94265654/210812455-078c36c8-36e4-41c4-a88c-973c0547ce62.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/94265654/210825447-220e331a-bab5-49fd-906e-789c963f5387.gif">
 
 - 🔭 I’m currently working on <b>Inmigration Flutter App</b>
 
