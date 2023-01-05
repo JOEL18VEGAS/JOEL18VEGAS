@@ -4,29 +4,23 @@
 
 <h1 align="center">Hi 👋, I'm Joel Vegas</h1>
 <h3 align="center">A passionate Full-Stack developer from Colombia</h3>
-<img align="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/94265654/210690458-8c20fc0e-d5fc-4bc5-9f53-569aa0227fac.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/94265654/210812455-078c36c8-36e4-41c4-a88c-973c0547ce62.gif">
 
-
-
-</p>
-<p align="center">
 - 🔭 I’m currently working on <b>Inmigration Flutter App</b>
-</p>
-<p align="center">
-- 🌱 I’m currently learning <b>DevOps</b>
-</p>
-<p align="center">
-- 💬 Ask me about <b>Android , Flutter , Flask , Django</b>
-</p>
-<p align="center">
-- 📫 How to reach me <b>joelvegas2023@gmail.com</b>
-</p>
-<p align="center">
-- ⚡ Fun fact <b>I am Funny</b>
-</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=joel18vegas&label=Profile%20views&color=0e75b6&style=flat" alt="joel18vegas" /> </p>
-<p align="right"> <a href="https://twitter.com/JoelVegas11" target="blank"><img src="https://img.shields.io/twitter/follow/joelvegas11?logo=twitter&style=for-the-badge" alt="joelvegas" /></a>
+
+- 🌱 I’m currently learning <b>DevOps</b>
+
+- 💬 Ask me about <b>Android , Flutter , Flask , Django</b>
+
+- 📫 How to reach me <b>joelvegas2023@gmail.com</b>
+
+
+- ⚡ Fun fact <b>I am Funny</b>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joel18vegas&label=Profile%20views&color=0e75b6&style=flat" alt="joel18vegas" /> </p>
+<p align="left"> <a href="https://twitter.com/JoelVegas11" target="blank"><img src="https://img.shields.io/twitter/follow/joelvegas11?logo=twitter&style=for-the-badge" alt="joelvegas" /></a>
 
 
 
@@ -46,11 +40,11 @@
 
 <h3 align="left">Support:</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joel18vegas" alt="joel18vegas" /></a> </p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joel18vegas&show_icons=true&locale=en" alt="joel18vegas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joel18vegas&" alt="joel18vegas" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joel18vegas" alt="joel18vegas" /></a> </p>
 
 <p><a href="https://ko-fi.com/https://ko-fi.com/joelvegas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/joelvegas" /></a></p><br><br>
