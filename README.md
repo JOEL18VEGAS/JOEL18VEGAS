@@ -45,6 +45,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joel18vegas&" alt="joel18vegas" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joel18vegas" alt="joel18vegas" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=joel18vegas&theme=gruvbox" alt="joel18vegas" /></p>
+
+
 
 <p><a href="https://ko-fi.com/https://ko-fi.com/joelvegas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/joelvegas" /></a></p><br><br>
