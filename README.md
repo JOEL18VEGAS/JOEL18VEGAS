@@ -47,6 +47,9 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=joel18vegas&theme=gruvbox" alt="joel18vegas" /></p>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 
-
-<p><a href="https://ko-fi.com/https://ko-fi.com/joelvegas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/joelvegas" /></a></p><br><br>
